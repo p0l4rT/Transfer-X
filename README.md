@@ -1,4 +1,4 @@
-<img src="https://b3.dd.icdn.ru/p/p0l4rt/4/88603714lst.jpg">
+<img src="https://b3.dd.icdn.ru/p/p0l4rt/4/88603714lst.jpg" width="600px">
 
 # TransferX
 
